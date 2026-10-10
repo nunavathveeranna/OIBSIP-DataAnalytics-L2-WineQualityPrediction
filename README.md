@@ -67,6 +67,3 @@ The project demonstrates how machine learning can classify wine into quality cat
 
 ## Note
 Model performance depends on the dataset, preprocessing, and model configuration. The selected model should be validated further before real-world use.
-
-## Author
-Developed as part of a machine learning internship task.
